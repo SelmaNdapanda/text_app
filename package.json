@@ -1,5 +1,7 @@
 {
   "name": "bpf_text_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "turbolinks": "^5.2.0"
+  }
 }
